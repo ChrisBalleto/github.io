@@ -9,10 +9,9 @@ HTML Best Practices
 	&nbsp (non-breaking space); &copy (copyright symbol); &lt (<); &gt (>); &amp (&);
 
 
- - (cascading style sheets)
--internal, external , inline
 
-External Styles
+CSS - (cascading style sheets)
+sefefeegf
 -improve SEO
 -Improve page perf
 -improves site-wide structure and control
