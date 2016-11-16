@@ -10,8 +10,7 @@ HTML Best Practices
 
 
 CSS - (cascading style sheets)
-
-External Styles
+sefefeegf
 -improve SEO
 -Improve page perf
 -improves site-wide structure and control
