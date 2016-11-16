@@ -10,7 +10,6 @@ HTML Best Practices
 
 
 CSS - (cascading style sheets)
--internal, external , inline
 
 External Styles
 -improve SEO
