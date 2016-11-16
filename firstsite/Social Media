@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scal=1">
+  	<title>Social Media</title>
+  	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  	<link rel="stylesheet" type="text/css" href="sitestyle.css">
+
+
+
+</head>
+<body>
+		<div class="container-fluid"> 
+		<div class="jumbotron">
+		<h1 class="orange"><strong><center>Social Media</center></strong> 
+		</h1>
+		</div>
+			<div class="col-sm-3">
+		<nav class="navbar navbar-inverse bg-warning">
+			<div class="nav navbar-nav">
+				<ul class="nav nav-pills nav-stacked">
+ 				 <li class="nav-item">
+  				  <a class="nav-item nav-link active" href"welcome.html"> Home </a>
+ 				 </li>
+ 				  <li class="nav-item">
+ 				 <a class="nav-item nav-link" href="About Me.html">  About Me </a>
+ 				 <li class="nav-item">
+   				 <a class="nav-item nav-link" href="project.html"> Project</a>
+  				</li>
+  				<li class="nav-item">
+   				 <a class="nav-item nav-link" href="Social Media.html"> Social Media<span class="sr-only"> (current) </span></a>
+ 				 </li>
+ 				  <li class="nav-item">
+   				 <a class="nav-item nav-link" href="contact.html"> Contact</a>
+  				</li>
+</ul>
+
+			
+			
+
+
+
+
+ 				</div>
+			</div>
+		</nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>

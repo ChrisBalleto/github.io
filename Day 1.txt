@@ -1,0 +1,32 @@
+HTML Best Practices
+
+-Use lowercase when writing html
+-Try to keep your html file small
+-Use _blank for external links only and always (opens in a new window/tab)
+-Tackle accessibility, SEO, and performance
+-Remove comments from production code
+-Use HTML entities to replace unsafe characters:
+	&nbsp (non-breaking space); &copy (copyright symbol); &lt (<); &gt (>); &amp (&);
+
+
+CSS - (cascading style sheets)
+-internal, external , inline
+
+External Styles
+-improve SEO
+-Improve page perf
+-improves site-wide structure and control
+
+IDs and CLASSes
+- Attributes
+-Class start with .
+-ID start with #
+
+background
+-syntax:
+	background: #000ff00url("background.png") no-repeat fixed center;
+-alternatively
+	background-color: yellow
+
+
+
