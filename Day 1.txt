@@ -9,7 +9,7 @@ HTML Best Practices
 	&nbsp (non-breaking space); &copy (copyright symbol); &lt (<); &gt (>); &amp (&);
 
 
-CSS - (cascading style sheets)
+ - (cascading style sheets)
 -internal, external , inline
 
 External Styles
