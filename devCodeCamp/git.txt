@@ -1,0 +1,38 @@
+Source Control/Version Control - 
+
+Git 
+-Centralized
+-Back-ups
+-Historical overview of changes (commits)
+-Access control
+-Conflict resolution
+
+Concepts
+-Repository
+-Revision
+-Working copy
+-Branching
+-Merging
+
+Diff
+-A change at a line level between two versions
+-Version control tracks diffs over time
+
+Repo
+-Stores Code
+-Each Project should have its own
+-Ability to view change/commits over time
+-Ability to rollback changes
+
+Commits
+-Committing is your backup and bookmark
+-A commit is a grouping of differences
+-Commits are stored by the repo
+-Commit whenever you complete something that works
+	-Even if its small
+-Commit often
+	-Need to leave a message with each commit so you or the other users know what was changed.
+
+Basic Commands
+Once you have successfully complete a small task
+1 - git add. ( add

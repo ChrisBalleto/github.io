@@ -28,7 +28,7 @@ body
 	background-color: #d87a55;
 }
 .nav-item {
-	color: black;
+	color: white;
 	font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
 	font-weight: bold;
 	font-size: 20px;
@@ -42,29 +42,51 @@ h2 {font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
 .rcorners1 {
     border-radius: 25px;
     background: #d87a55;
-    padding: 20px; 
-    width: 500px
+    padding: 15px; 
+    width: auto;
     font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
 	color: white;
 }
+.active {
+	background-color: black;
+	border-radius: 10px;
 
+}
+.navbar-inverse {
+		border-color: #d87a55;
+}
 form {
 	font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
 	color: white;
 }
 legend{
 	font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
-	color: Black;
+	color: white;
 	font-weight: bold;
 }
 input{
 	background-color: black;
 }
 a:hover {
+	color: black;
 	background-color: black
+	border-radius:10px;
+
 }
 iframe {background-color: #d87a55
 padding: 20px;
+}
+.nav-pills>li.active>a:hover 
+{
+	background-color: white;
+	color: black;
+}
+.nav-pills>li:hover
+{
+	color: black; 
+}
+.nav-pills>li.active>a {
+	background-color: black;
 }
 .rcorners2 {
     border-radius: 25px;
@@ -74,9 +96,7 @@ padding: 20px;
     margin-top: 400px;
      
 }
-a:hover { 
-    background-color: yellow;
-}
+
 .navbar{
 	background-color: #d87a55;
 	color: white;

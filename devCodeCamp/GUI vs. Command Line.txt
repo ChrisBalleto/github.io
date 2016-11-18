@@ -1,0 +1,7 @@
+GUI vs. Command Line
+
+Command- what we do
+Arguement is how we are going to do it
+
+Absolute path starts at C or root of file directory
+Relative path describes a location relative to the current directory
